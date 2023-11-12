@@ -277,3 +277,5 @@ The Android app is designed to be responsive only in portrait mode; it does not 
 Resources are attached to each lecture.
 
 24/7 support will be provided depending on the nature of your questions.
+
+
