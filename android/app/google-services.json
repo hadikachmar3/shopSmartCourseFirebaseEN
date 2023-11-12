@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "588327329280",
+    "project_id": "shopsmarten-f72b4",
+    "storage_bucket": "shopsmarten-f72b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588327329280:android:401a6cdafdd62448d402e5",
+        "android_client_info": {
+          "package_name": "com.example.shopsmart_admin_en"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588327329280-3ppc252hh3re5hav75m87pt1kafqfhlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpjIIg2n6kugzD03-EWgVHmO79zrmR83g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588327329280-3ppc252hh3re5hav75m87pt1kafqfhlf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588327329280:android:8d2e0300b5b6c306d402e5",
+        "android_client_info": {
+          "package_name": "com.example.shopsmart_users_en"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588327329280-rmvqc9opbn1vi4hp32aap9b6q4aa3qsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopsmart_users_en",
+            "certificate_hash": "6e4b52e480dcbf1e94f9d1a7218da383de7ca8c9"
+          }
+        },
+        {
+          "client_id": "588327329280-3ppc252hh3re5hav75m87pt1kafqfhlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpjIIg2n6kugzD03-EWgVHmO79zrmR83g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588327329280-3ppc252hh3re5hav75m87pt1kafqfhlf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
