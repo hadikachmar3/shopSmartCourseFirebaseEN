@@ -1,7 +1,4 @@
-# Flutter 3.10 & Firebase: Building an E-commerce & Admin App English Version- Updated on 21/09/2023
-The `admin_app` branch can be found under [this branch](https://github.com/hadikachmar3/shopSmartCourseFirebaseAR/tree/admin_app).<br>
-يمكن العثور على فرع `admin_app` تحت [هذا الفرع](https://github.com/hadikachmar3/shopSmartCourseFirebaseAR/tree/admin_app).
-
+# Flutter 3.10 & Firebase: Building an E-commerce & Admin App Enlgish - Updated on 21/09/2023
 <!-- added on 13/07/2023 ---> 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Flutter3.10-E-Commerce_Course&label=People%20who%20visited%20this%20page&countColor=%23263759)  <br> <br>
 
@@ -14,7 +11,6 @@ The `admin_app` branch can be found under [this branch](https://github.com/hadik
 
 ## 📱 Try the App on the PlayStore
 Great news! You can now download and test the app through [this Google Play Store link](https://play.google.com/store/apps/details?id=com.hadik3.spring_store&hl=en&gl=US).
-
 
 ![shopSmart logo](https://img-c.udemycdn.com/course/200_H/5246870_67ad_4.jpg)
 
@@ -79,6 +75,91 @@ Please make sure to watch the [tricks&tips tutorial](https://youtu.be/zkdciJvhlK
 <!--
 [![Tips&Tricks](https://github.com/hadikachmar3/Flutter3.10-E-Commerce_Course/assets/38382273/87941d4f-adb3-4830-beb0-21474d85c344)](https://youtu.be/zkdciJvhlKM)
 -->
+
+
+
+# Course Description: Flutter & Firebase Mastery
+
+Learn to design, build, and debug fully functional shopping applications with Flutter and Firebase. This course offers in-depth knowledge of Flutter mobile development, Dart programming, and Firebase integration. By the end of the course, not only will you be equipped to manage freelance projects confidently, but you will also be well-prepared to take on a Flutter development position within a company.
+
+## Prerequisites
+
+- Basic knowledge of programming
+- Basic understanding of Flutter
+- Experience with Windows or Mac application development
+- Access to a computer with an Internet connection
+- Enthusiasm for learning and applying cutting-edge algorithms to practical cases
+
+## What You Will Learn
+
+This course covers an extensive range of topics, including:
+
+### General
+
+- Dart Programming Language - Fundamentals to expert topics
+- Understanding Flutter Mobile Development by building apps incrementally
+- Designing, building, and debugging Flutter apps
+- Building robust apps with Flutter
+
+### Styles & UI
+
+- Styles for UI
+- Dynamic colors and themes
+- Complex UI made simple
+- Custom widgets
+- Flutter Material Design
+- ListViews and multiple UI states
+- Flutter Row and Column
+- Flutter ListView Builder
+- State Management - Provider
+- Clean code and boilerplate code avoidance
+- setState, lifting state up via callbacks, global access, scoped access with Provider and ChangeNotifier
+- Navigation & Custom navigation
+- Forms, input handling, and validation
+- Managing and updating packages
+
+### Firebase
+
+- Databases and Cloud Firestore
+- Firebase Authentication
+- Firebase Firestore
+- Firebase Storage
+- Real-time communication with Firestore using Streams and StreamBuilder, Futures and FutureBuilder
+
+## Course Structure
+
+- Duration: approximately 12-13 hours of content
+- Regular updates
+
+## What to Expect After This Course
+
+After completing this course, you will have:
+
+- The ability to build a fully functional shopping application with Firebase
+- Gained advanced knowledge in Flutter
+- Developed readiness to explore expert topics in Flutter
+- The ability to handle and manage freelance projects
+- Acquired the necessary skills and knowledge to confidently take up a Flutter development position within a company
+
+## Limitations and Notes
+
+Please note the following limitations and important information for this course:
+
+- This course focuses on Windows configurations. IOS configurations are not covered but feel free to ask questions about it. We will be there to help.
+- This course includes 2 apps, one for the Users, and another App for the Admin, both in "Portrait mode".
+- The Android app is designed to be responsive only in portrait mode; it does not support landscape mode.
+- Resources are attached to each lecture.
+- 24/7 support will be provided depending on the nature of your questions.
+
+
+[udemy]: https://www.udemy.com/user/hadi-kachmar-2/
+[youtube]: https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w
+[linkedin]: https://www.linkedin.com/in/hadi-kachmar-27a56a177/
+[github]: https://github.com/hadikachmar3
+[email]: mailto:flutterer.dev@gmail.com
+[facebook]: https://www.facebook.com/Coding-with-Hadi-113431577650864/
+[discord]: https://discord.gg/MhnKaY5qdK
+[![GitHub visitor](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=hadikachmar3&repo=Bgstatic&countColorcountColor&countColor=%23007EC6)][github]
 
 
 This course is in Arabic and English. but this is the English version of it
